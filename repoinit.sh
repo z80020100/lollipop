@@ -1,6 +1,6 @@
 #!/bin/bash
 
-lollipop_path=${HOME}/project/geekbox/Lollipop
+lollipop_path=${PWD}/../source/geekbox_rk3368_lollipop
 repo_prefix=lollipop
 github_urlbase=https://github.com/geekboxzone
 MAXTRYNUM=3
